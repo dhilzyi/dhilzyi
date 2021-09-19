@@ -1,7 +1,5 @@
-Hi, I’m @dhilzyi
-I recently got cath up on programming an stuff
-,I’m currently learning HTML, CSS though.
-Will learn C++/Phyton, Javascript after that
+Hi, I recently got catch up on programming and stuff
+
 
 <!---
 dhilzyi/dhilzyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
