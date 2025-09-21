@@ -1,4 +1,4 @@
-Hi, I recently got catch up on programming and stuff
+Hi, just starting.
 
 
 <!---
